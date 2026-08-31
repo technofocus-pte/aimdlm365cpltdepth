@@ -4,7 +4,7 @@
 
 ## Lab Overview
 
-The Researcher agent in Microsoft 365 Copilot can run on three different
+The Researcher agent in Microsoft Copilot can run on three different
 model configurations: Critique, Model Council, and Claude. Each combines
 models from OpenAI and Anthropic differently, and each is likely to
 produce a different kind of research output — in depth, source handling,
@@ -54,7 +54,7 @@ automatic routing picks.
 
 ## Lab Prerequisites
 
-- A Microsoft 365 Copilot license assigned to your user account, with
+- A Microsoft Copilot license assigned to your user account, with
   access to the Researcher agent.
 
 - A work or school account in a Microsoft 365 tenant with Copilot
@@ -79,7 +79,7 @@ automatic routing picks.
 - Permissions: Standard user permissions; no admin role is required to
   complete the learner's steps.
 
-- Required resources: Microsoft 365 Copilot Researcher agent only.
+- Required resources: Microsoft Copilot Researcher agent only.
 
 ## Exercise 1 — Retail: Which Model Research a Market Entry Question Best?
 
