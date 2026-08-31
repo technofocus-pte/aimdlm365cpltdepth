@@ -1,4 +1,4 @@
-# Lab 2 – Choosing the Right Researcher Model for the Job
+# Lab 2 – Model Comparison Using Researcher Critique and Council Models
 
 *Estimated Duration: 60 minutes*
 
