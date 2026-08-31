@@ -85,7 +85,7 @@ After completing this lab, you will be able to:
 1.  Navigate to +++[https://onedrive.live.com ›
     login](https://onedrive.live.com/login)+++ and log in with your
     credentials.
-    ![](images/f4470e3617977d62ea63b66bbb9f92733f2bdafb.png)
+![](images/f4470e3617977d62ea63b66bbb9f92733f2bdafb.png)
 
 2.  Enter your password.  
     ![](images/06bf36993029acb7781db19a53957e7756105972.png)
