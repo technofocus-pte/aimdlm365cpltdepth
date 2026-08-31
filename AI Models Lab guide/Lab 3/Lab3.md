@@ -4,7 +4,7 @@ Lab Duration- 30 minutes
 
 ## Lab Overview
 
-This lab (companion to "AI Models in Microsoft 365 Copilot") that
+This lab (companion to "AI Models in Microsoft Copilot") that
 teaches you to use an online estimator tool (coworkestimator.com) to
 forecast the monthly Copilot Credit consumption and dollar budget for
 rolling out Cowork across your organization.
