@@ -1,10 +1,10 @@
-# Lab 1-Exploring AI Models and Business Applications in Microsoft Copilot Chat
+# Lab 1- Exploring AI Models and model comparison in Microsoft Copilot Chat
 
 **Estimated Duration:** 60 minutes
 
 ## Lab Overview
 
-Microsoft 365 Copilot routes each request to one of several AI models
+Microsoft Copilot routes each request to one of several AI models
 and modes, and also lets you choose one manually from the model
 selector. This lab keeps the business context constant — retail — and
 varies only the model or mode, so any difference you see in the output
