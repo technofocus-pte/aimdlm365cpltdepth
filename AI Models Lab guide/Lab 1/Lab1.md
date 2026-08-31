@@ -1,4 +1,4 @@
-# Lab 1- Exploring AI Models and model comparison in Microsoft Copilot Chat
+# Lab 1- Exploring AI models and model comparison in Microsoft Copilot Chat
 
 **Estimated Duration:** 60 minutes
 
