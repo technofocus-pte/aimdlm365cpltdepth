@@ -1,4 +1,4 @@
-# Lab 3-Estimating Copilot Cowork Costs
+### Lab 3 – Estimating Copilot Cowork Costs Using the Copilot Cowork Estimator
 
 Lab Duration- 30 minutes
 
