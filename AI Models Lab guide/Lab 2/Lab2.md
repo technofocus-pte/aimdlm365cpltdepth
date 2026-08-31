@@ -1,4 +1,4 @@
-# Lab 2 – Model Comparison Using Researcher Critique and Council Models
+# Lab 2 – Model comparison using Researcher Critique and Council models
 
 *Estimated Duration: 60 minutes*
 
