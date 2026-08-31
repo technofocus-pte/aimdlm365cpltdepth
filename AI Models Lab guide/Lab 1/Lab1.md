@@ -21,7 +21,7 @@ can state, with evidence, which model or mode fits the task best.
 
 After completing this lab, you will be able to:
 
-- Locate and use the model selector in Microsoft 365 Copilot Chat.
+- Locate and use the model selector in Microsoft Copilot Chat.
 
 - Compare GPT-5.5 Quick Response, GPT-5.5 Think Deeper, and GPT-5.6
   Quick Response on the same retail analysis and explain the difference
@@ -44,13 +44,13 @@ After completing this lab, you will be able to:
 
 ## Prerequisites
 
-- A Microsoft 365 Copilot license assigned to your user account.
+- A Microsoft Copilot license assigned to your user account.
 
 - A work or school account in a Microsoft 365 tenant with Copilot
   enabled.
 
 - Access to Microsoft Copilot Chat at m365copilot.com or through the
-  Microsoft 365 Copilot app.
+  Microsoft Copilot app.
 
 - A supported browser: the latest version of Microsoft Edge or Google
   Chrome.
@@ -77,7 +77,7 @@ After completing this lab, you will be able to:
 - Permissions: Standard user permissions; no admin role is required to
   complete the learner steps.
 
-- Required resources: Microsoft 365 Copilot Chat, Microsoft PowerPoint,
+- Required resources: Microsoft Copilot Chat, Microsoft PowerPoint,
   and connected access to Flux 2 Flex and GPT Image for Exercise 4.
 
 ## Exercise 0- Setting up the Knowledge Base
